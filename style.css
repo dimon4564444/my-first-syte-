@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header p{
+    text-align: center;
+    background-color: #D26A02 ;
+    
+}
+body{
+    background-color: #D26A02;
+}
+
+header b{
+    color: rgb(3, 48, 210);
+}
+
+ #link{
+    background-color: white;
+    border:3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    text-align: center;
+    padding:5px;
+   
+}
+
+header a{
+      text-decoration: none;
+    color:black;
+}
+
+  #p, #p2,#p3,#p4,#p5,#p6,#p7{
+    font-size: 30px;
+  }
+
+  #price{
+    font-size: 40px;
+  }
+
+footer{
+    background-color: lightblue;
+    border:3px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding:10px;
+}
